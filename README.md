@@ -61,17 +61,17 @@ This graph shows the progression of accuracy over 100 optimization trials using 
 
 ### Convergence Graph
 
-![Convergence Graph for S4](./73844770-34e1-4bb6-a79f-5d9078c0018a.png)
+![Convergence Graph for S4]![graph](https://github.com/user-attachments/assets/cb6c25f2-ddf2-414f-95af-0d9d17e84009)
+
 
 ---
 
-## Sample Output (Classification Metrics & Visuals)
+## Output table
 
-This is the output result of the best model, including confusion matrix and classification report:
+This is the output result of the best model,:
 
-![Sample Output Result](./Screenshot%202025-04-19%20104912.png)
+![Sample Output Result]![output table](https://github.com/user-attachments/assets/e72c32b3-4647-4341-b826-0b7d06ddff78)
 
-![Confusion Matrix](./Screenshot%202025-04-19%20104904.png)
 
 ---
 
